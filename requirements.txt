@@ -1,0 +1,5 @@
+opencv-python
+pillow
+pyttsx3
+pybluez
+numpy
