@@ -120,4 +120,4 @@ This project is licensed under the MIT License.
 👨‍💻 Author
 
 Gautham Bangera
-📧 Contact: your-email@example.com
+📧 Contact: bangeragautham22@gmail.com
