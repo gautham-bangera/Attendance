@@ -1,4 +1,6 @@
-🎯 Face-Based Attendance System using Python & OpenCV
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Face+Based+Attendance+System;Using+Python+%26+OpenCV;AI+Powered+Smart+Tracking;Fast+%7C+Accurate+%7C+Automated">
+</p>
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python"> <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv"> <img src="https://img.shields.io/badge/Status-Active-success"> <img src="https://img.shields.io/badge/License-MIT-yellow"> </p>
 📌 Overview
 
