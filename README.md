@@ -1,5 +1,16 @@
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Face+Based+Attendance+System;Using+Python+%26+OpenCV;AI+Powered+Smart+Tracking;Fast+%7C+Accurate+%7C+Automated">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A11CB&height=200&section=header&text=Face%20Attendance%20System&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Based+Attendance+Tracking;Python+%7C+OpenCV+Project;Smart+Automation+System"/>
+</p>
+
+<!-- Tech Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,github,vscode"/>
 </p>
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python"> <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv"> <img src="https://img.shields.io/badge/Status-Active-success"> <img src="https://img.shields.io/badge/License-MIT-yellow"> </p>
 📌 Overview
